@@ -87,3 +87,15 @@ python main.py --dataset waterbirds\
                --spu_reg 5\
                --algorithm shortcutprobe
 ```
+
+
+## Citation 
+Please consider citing this paper if you find the code helpful.
+```
+@inproceedings{zheng2025shortcutprobe,
+ title={ShortcutProbe: Probing Prediction Shortcuts for Learning Robust Models},
+ author={Zheng, Guangtao and Ye, Wenqian and Zhang, Aidong},
+ booktitle={The 34th International Joint Conference on Artificial Intelligence},
+ year={2025}
+}
+```
